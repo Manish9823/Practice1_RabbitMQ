@@ -1,0 +1,30 @@
+{
+  "name": "first-time",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u00001\u0000_\u0000R\u0000a\u0000b\u0000b\u0000i\u0000t\u0000M\u0000Q\u0000\r\u0000 \u0000",
+  "main": "publisher.js",
+  "scripts": {
+    "publish": "node publisher.js",
+    "consume": "node consumer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "rabbitmq": "^0.0.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manish9823/Practice1_RabbitMQ.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Manish9823/Practice1_RabbitMQ/issues"
+  },
+  "homepage": "https://github.com/Manish9823/Practice1_RabbitMQ#readme"
+}
